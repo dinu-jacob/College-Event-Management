@@ -1,3 +1,3 @@
 # College-Event-Management
-Files is in the Branch Events.
+Files are in the Brach Master.
 PHP project for College Events Management
